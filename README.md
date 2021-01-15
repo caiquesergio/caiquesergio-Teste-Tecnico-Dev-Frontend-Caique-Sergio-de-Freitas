@@ -1,5 +1,5 @@
 # Installing / Getting started
-1 - npm install
+<p>1 - npm install</p>
 2 -npm start
 
 # Developing
